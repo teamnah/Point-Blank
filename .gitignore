@@ -5,3 +5,4 @@ server/config/fbAuth.config.js
 .env
 public/lib
 dump.rdb
+npm-debug.log
